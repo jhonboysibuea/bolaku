@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="Select Team"></TextView>
+    <Spinner
+        android:id="@+id/spinner_team"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="Select Voor Point"></TextView>
+    <Spinner
+        android:id="@+id/spinner_voor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/voor_arrays"
+        android:prompt="@string/voor_point" />
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="How Much you bet?"></TextView>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/amount_bet"
+        android:numeric="integer"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:id="@+id/submit_bet"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:layout_gravity="center"
+        android:text="Submit"/>
+</LinearLayout>

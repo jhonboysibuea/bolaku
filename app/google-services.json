@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "348363224721",
+    "firebase_url": "https://bolaku-eeb47.firebaseio.com",
+    "project_id": "bolaku-eeb47",
+    "storage_bucket": "bolaku-eeb47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348363224721:android:13b22ad8eef033b4",
+        "android_client_info": {
+          "package_name": "com.labs.hb.bolaku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348363224721-l5p7ub6b44am0qe86du2llhckau0o6ab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzHwURi43HkrY3aA4IudT4MwifLRsxD1s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

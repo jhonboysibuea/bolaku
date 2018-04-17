@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">bolaku</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="btn_text_login_fb">Login Dengan Facebook</string>
+    <string name="btn_text_daftar_fb">Daftar Dengan Facebook</string>
+    <string name="facebook_app_id">164129760971075</string>
+
+    <string name="voor_point">Pilih Voor Point</string>
+
+    <string-array name="voor_arrays">
+        <item>-3</item>
+        <item>-2.5</item>
+        <item>-2</item>
+        <item>-1.5</item>
+        <item>-1</item>
+        <item>-3/4</item>
+        <item>-1/2</item>
+        <item>-1/4</item>
+        <item>0</item>
+        <item>1/4</item>
+        <item>1/2</item>
+        <item>3/4</item>
+        <item>1</item>
+        <item>1.5</item>
+        <item>2</item>
+        <item>2.5</item>
+        <item>3</item>
+
+
+    </string-array>
+</resources>
